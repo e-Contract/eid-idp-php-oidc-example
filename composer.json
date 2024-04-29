@@ -1,0 +1,15 @@
+{
+    "name": "e_contract/openid_connect_test",
+    "description": "OpenID Connect Test for PHP",
+    "type": "project",
+    "require": {
+        "jumbojett/openid-connect-php": "1.0.0"
+    },
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Frank Cornelis",
+            "email": "info@e-contract.be"
+        }
+    ]
+}
